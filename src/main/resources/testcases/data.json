@@ -1,0 +1,16 @@
+[
+{
+    "testCaseName":"TEST CASE 1",
+    "country":"MYS",
+    "phoneCode":"65",
+    "mobile":"98334343434",
+    "isNewUser":true
+},
+{
+    "testCaseName":"TEST CASE 2",
+    "country":"MYS",
+    "phoneCode":"65",
+    "mobile":"98334343434",
+    "isNewUser":false
+}
+]

@@ -1,0 +1,25 @@
+{
+  "$schema": "http://json-schema.org/draft-04/schema#",
+  "type": "object",
+  "properties": {
+    "user": {
+      "type": "object",
+      "properties": {
+        "lastName": {"type": "string"},
+        "firstName": {"type": "string"},
+        "guid": {"type": "string"},
+        "region": {"type": "string"},
+        "age": {"type": "number"}
+      },
+      "required": [
+        "lastName",
+        "firstName",
+        "guid",
+        "region",
+        "mobilePhone",
+        "age"
+       ]
+    }
+}
+
+}
